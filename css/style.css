@@ -1,0 +1,97 @@
+.header{
+    margin-top: 20px;
+}
+.imgCura img{
+    width: 30%;
+}
+.contraste img{
+    width: 30px;
+    height: 30px;
+} 
+.ImgSom img{
+    width: 30px;
+    height: 30px;
+}
+.container2 {
+    display: flex;
+    height: 100%;
+}
+.header{
+    display: flex;
+    height:  30px;
+}
+.container2 figure{
+    margin: 0 20px;
+   
+}
+
+.nav-bar{
+    background-color: #448aff;
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    border:solid black;
+    border-width: 1px;
+}
+
+.container2 a{
+    color:black;
+}
+a{
+    color:black;  
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 0 80px;
+    flex-wrap: 1;
+   
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 6%;
+    background-color: #448aff;
+}
+
+.quadrado{
+    width: 230px;
+    height: 260px;
+    background-color: #82b1ffff;
+    border-radius: 15%;
+    border: solid #595959;
+    border-width: 3px;
+}
+.quadrado img{
+    max-width:100px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+    border: solid #595959;
+    border-width: 3px;
+}
+.fotos{
+    padding-top: 15px;
+    text-align: center;
+    
+}
+.relatos{
+    display: flex;
+    justify-content: space-around;
+    margin:  20px 0;
+}
+.form-relato{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.form-relato textarea{
+    width: 100%;
+}
+
